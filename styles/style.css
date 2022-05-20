@@ -372,13 +372,6 @@ a {
     width: 186px;
     margin: 13px 0 36px;
 }
-.fa-brands {
-    color: #FFFFFF;
-    font-size: 32px;
-}
-.fa-brands:not(:last-child) {
-    margin-right: 24px;
-}
 .footer_nav:not(:last-child) {
     margin-right: 100px;
 }
@@ -393,6 +386,11 @@ a {
 .footer_title {
     font-weight: 700;
     color: #FFFFFF;
+}
+.fa-brands {
+    color: #FFFFFF;
+    font-size: 32px;
+    margin-right: 24px;
 }
 /*SECTION CONTACTS*/
 
